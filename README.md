@@ -22,8 +22,23 @@ Here are some ideas to get you started:
 🔹 I’m I’m looking to collaborate on **JavaScript,Node.js**
 
 ### 🚀 Tech Stack:
-💻 Languages: ![C++](https://img.shields.io/badge/C++-blue?style=flat&logo=c%2B%2B) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript) ![SQL](https://img.shields.io/badge/SQL-blue?style=flat&logo=sqlite)  
-🌐 Web Dev: ![HTML](https://img.shields.io/badge/HTML5-orange?style=flat&logo=html5) ![CSS](https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3) ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=flat&logo=bootstrap)  
+💻 Languages: 
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-blue?style=flat&logo=c%2B%2B)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript)
+![SQL](https://img.shields.io/badge/SQL-blue?style=flat&logo=sqlite)
+  
+🌐 Web Dev: ![HTML](https://img.shields.io/badge/HTML5-orange?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3) 
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=flat&logo=bootstrap)  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+
 🔧 Tools: ![Git](https://img.shields.io/badge/Git-red?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)  
 
 ### 📊 GitHub Stats:
