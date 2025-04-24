@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 🔹 I’m Passionate **programmer** and **web developer**  
 🔹 I’m a **MERN Stack** Enthusiast
 🔹 I Love solving **DSA problems in C++/JAVA** and currently working on **MERN or BackEnd projects**  
-🔹 I’m I’m looking to collaborate on **JavaScript,Node.js**
+🔹 I’m looking to collaborate on **JavaScript, Node.js**
 
 ### 🚀 Tech Stack:
 💻 Languages: 
