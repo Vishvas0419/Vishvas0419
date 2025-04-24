@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 ### Introduction (About Me)
 🔹 I’m Passionate **programmer** and **web developer**  
-🔹 I Love solving **DSA problems in C++/JAVA** and working on **Front-end projects**  
-🔹 I’m Currently exploring **MERN Stack**  
+🔹 I’m a **MERN Stack** Enthusiast
+🔹 I Love solving **DSA problems in C++/JAVA** and currently working on **MERN or BackEnd projects**  
 🔹 I’m I’m looking to collaborate on **JavaScript,Node.js**
 
 ### 🚀 Tech Stack:
