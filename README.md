@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 🔧 Tools: ![Git](https://img.shields.io/badge/Git-red?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)  
 
 ### 📊 GitHub Stats:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vishvas0419&theme=dark&hide_border=true)
+<!--![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vishvas0419&theme=dark&hide_border=true)-->
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Vishvas0419&show_icons=true&theme=dark)
 
 <!--### 🔥 Featured Projects:
