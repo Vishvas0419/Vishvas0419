@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Introduction (About Me)
 🔹 I’m Passionate **programmer** and **web developer**  
-🔹 I’m a **MERN Stack** Enthusiast
+🔹 I’m a **Currently learning and exploring springboot for java full-stack** 
 🔹 I Love solving **DSA problems in C++/JAVA** and currently working on **MERN or BackEnd projects**  
 🔹 I’m looking to collaborate on **JavaScript, Node.js**
 
