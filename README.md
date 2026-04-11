@@ -1,60 +1,87 @@
-## Hi there, My name is Vishvas Vaglay👋
+## 👋 Hi, I'm Vishvas Vaglay
 
-<!--
-**Vishvas0419/Vishvas0419** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 **Aspiring Software Engineer | Java Backend Developer | DSA Enthusiast**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->  
+## 🚀 About Me
 
-### Introduction (About Me)
-🔹 I’m a Passionate **programmer** and **web developer**  
+🔹 Computer Science Engineering student passionate about building scalable backend systems
 
-🔹 I’m Currently learning and **exploring springboot for Java full-stack** and I Love solving DSA problems in JAVA 
+🔹 Strong focus on **Data Structures & Algorithms (Java)** for product-based company placements
 
-🔹 I’m currently working on BackEnd projects & looking to collaborate on **JavaScript, Node.js**
+🔹 Currently learning **Spring Boot & Backend Development** to build real-world applications
 
-### 🚀 Tech Stack:
-💻 Languages: 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript)
-![SQL](https://img.shields.io/badge/SQL-blue?style=flat&logo=sqlite)
-  
-🌐 Web Dev: ![HTML](https://img.shields.io/badge/HTML5-orange?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3) 
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+🔹 Interested in **Distributed Systems, Databases, and System Design**
 
+🔹 Actively working on backend projects and open to collaboration
 
-🔧 Tools: ![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)  
+---
 
-<!--![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vishvas0419&theme=dark&hide_border=true)-->
-### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Vishvas0419&show_icons=true&theme=dark&custom_title=Java%20Developer%20Stats)
+## 🎯 Current Focus
 
-### 🔥 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishvas0419&layout=compact&theme=dark&custom_title=Most%20Used%20Languages&hide=c%2B%2B)
+* 🚀 Mastering **DSA (Java)** for coding interviews
+* ⚙️ Building **Spring Boot + REST APIs**
+* 🧠 Learning **Core CS (DBMS, OS, CN)** for interviews
+* 💡 Exploring **System Design fundamentals**
 
+---
 
-<!--### 🔥 Featured Projects:
-- 🛒 [CU Campus](https://github.com/your-username/cu-campus) - A university website with event details, food ordering, complaints, and hostel management.
-- ☕ [Barista Coffee Menu](https://github.com/your-username/coffee-menu) - A web-based menu with a bill generator using JavaScript and Bootstrap.
-- 🏠 [IoT Smart Home](https://github.com/your-username/smart-home) - A home automation system using Arduino and IoT sensors. -->
+## 🛠️ Tech Stack
 
-- ### 📫 Connect With Me:
-- 👔 LinkedIn Profile : https://www.linkedin.com/in/vishvas-vaglay-7b37582b3?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BRkBMUCwOQM6fsTywR6hBqw%3D%3D
-- 📧 Email: vishvasvaglay@gmail.com
+### 💻 Languages
 
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat\&logo=javascript)
+![SQL](https://img.shields.io/badge/SQL-blue?style=flat\&logo=sqlite)
 
+### 🌐 Backend & Web
 
+![Spring Boot](https://img.shields.io/badge/SpringBoot-brightgreen?style=for-the-badge\&logo=springboot)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge\&logo=express\&logoColor=%2361DAFB)
 
+### 🗄️ Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
+
+### 🌐 Frontend
+
+![HTML](https://img.shields.io/badge/HTML5-orange?style=flat\&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-blue?style=flat\&logo=css3)
+
+### 🔧 Tools
+
+![GitHub](https://img.shields.io/badge/GitHub-black?style=flat\&logo=github)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Vishvas0419\&show_icons=true\&theme=dark\&custom_title=Java%20Developer%20Stats)
+
+---
+
+## 🔥 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishvas0419\&layout=compact\&theme=dark\&hide=c%2B%2B)
+
+---
+
+## 💼 What I Bring
+
+✔ Strong problem-solving mindset (DSA in Java)
+✔ Backend development with real-world project experience
+✔ Understanding of databases and API design
+✔ Continuous learner aiming for top tech roles
+
+---
+
+## 📫 Connect With Me
+
+🔗 LinkedIn: https://www.linkedin.com/in/vishvas-vaglay-7b37582b3
+📧 Email: [vishvasvaglay@gmail.com](mailto:vishvasvaglay@gmail.com)
+
+---
+
+⭐ *Always learning. Always building. Always improving.*
