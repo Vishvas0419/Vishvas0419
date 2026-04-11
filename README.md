@@ -56,17 +56,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Vishvas0419\&show_icons=true\&theme=dark\&custom_title=Java%20Developer%20Stats)
-
----
-
-## 🔥 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishvas0419\&layout=compact\&theme=dark\&hide=c%2B%2B)
-
----
 
 ## 💼 What I Bring
 
