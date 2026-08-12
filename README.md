@@ -32,8 +32,10 @@
 ### 💻 Languages
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat\&logo=javascript)
 ![SQL](https://img.shields.io/badge/SQL-blue?style=flat\&logo=sqlite)
+
 
 ### 🌐 Backend & Web
 
