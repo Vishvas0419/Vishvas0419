@@ -60,8 +60,11 @@
 ## 💼 What I Bring
 
 ✔ Strong problem-solving mindset (DSA in Java)
+
 ✔ Backend development with real-world project experience
+
 ✔ Understanding of databases and API design
+
 ✔ Continuous learner aiming for top tech roles
 
 ---
@@ -69,6 +72,7 @@
 ## 📫 Connect With Me
 
 🔗 LinkedIn: https://www.linkedin.com/in/vishvas-vaglay-7b37582b3
+
 📧 Email: [vishvasvaglay@gmail.com](mailto:vishvasvaglay@gmail.com)
 
 ---
