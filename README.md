@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Vishvas Vaglay
 
-💡 **Aspiring Software Engineer | Java Backend Developer | DSA Enthusiast**
+💡 **Aspiring Software Engineer | Java, C# Backend Developer | DSA Enthusiast**
 
 ---
 
