@@ -8,7 +8,7 @@
 
 🔹 Computer Science Engineering student passionate about building scalable backend systems
 
-🔹 Strong focus on **Data Structures & Algorithms (Java)** for product-based company placements
+🔹 Strong focus on **Data Structures & Algorithms** for product-based company placements
 
 🔹 Currently learning **C# & Backend Development** to build real-world applications
 
