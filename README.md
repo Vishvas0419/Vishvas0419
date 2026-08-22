@@ -10,7 +10,7 @@
 
 🔹 Strong focus on **Data Structures & Algorithms (Java)** for product-based company placements
 
-🔹 Currently learning **Spring Boot & Backend Development** to build real-world applications
+🔹 Currently learning **C# & Backend Development** to build real-world applications
 
 🔹 Interested in **Distributed Systems, Databases, and System Design**
 
