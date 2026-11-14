@@ -75,8 +75,6 @@
 
 🔗 LinkedIn: https://www.linkedin.com/in/vishvas-vaglay-7b37582b3
 
-📧 Email: [vishvasvaglay@gmail.com](mailto:vishvasvaglay@gmail.com)
-
 ---
 
 ⭐ *Always learning. Always building. Always improving.*
